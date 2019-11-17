@@ -1,2 +1,2 @@
-> Push to repository using below link
-> Repository: https://github.com/Pyleks/Working-with-External-resources.git
+> Push to repository using below link:
+> https://github.com/Pyleks/Working-with-External-resources.git
