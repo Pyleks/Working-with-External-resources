@@ -14,7 +14,7 @@ function getData(cb) {
             // console.log(typeof(JSON.parse(this.responseText)));
             // console.log(JSON.parse(this.responseText));
             // data = JSON.parse(this.responseText);
-            cb(JSON.parse(this.responseText));
+            // cb(JSON.parse(this.responseText));
         }
     };
 }
